@@ -1,6 +1,24 @@
 # MirrorNetworking_Local_Examples_Joe
 Local Networking+Discovery
 
+# Examples 1
+
+localGame/NoND_Scenes/ file is Examples 1.
+Examples 1 is provide FindServers.
+
+Scenes:
+NetworkDiscoveryScenes.unity
+
+-----
+# Examples 2 
+
+localGame/LocalNetDiscovery/ file is Examples 2.
+
+Examples 2 not FindServers but provide Local Lobby Scenes.
+
+Scenes:
+LobbyScenes.unity + local_MainScenes.unity
+
 ----------
 # Tools:
  1. Unity 2021.3.17f1+
